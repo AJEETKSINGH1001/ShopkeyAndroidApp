@@ -28,7 +28,10 @@ import io.appium.java_client.remote.MobileCapabilityType;
 
 
 /*This is test case for login 
-Written by Ajeet k Singh on 15 December 2022*/
+Written by Ajeet k Singh on 15 December 2022
+Uploaded to github for reference
+
+*/
 
 public class AddProducts {
     private String reportDirectory = "reports";
